@@ -1,7 +1,8 @@
 [![Linked-In-Banner.png](https://i.postimg.cc/RhVzQhs2/Linked-In-Banner.png)](https://postimg.cc/cgjjdxNc)
 <h1 align="center">Hi 👋, I'm Paola Rosano</h1>
 <h3 align="center">A passionate FrontEnd Developer from México</h3>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paoross&label=Profile%20views&color=0e75b6&style=flat" alt="paoross" /> </p>
 
