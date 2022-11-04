@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [MD-Links](https://github.com/PaoRoss/CDMX013-md-links)
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me **paodiazglez.pdgr@gmail.com**
 
-- 📄 Know about my experiences [During 2022 I started doing projects as a FrontEnd Developer within Laboratoria, which is a bootcamp that seeks to simulate a full-time work environment. Thanks to this I have gained experience in JavaScript, HTML and CSS. I have also gained experience in Firebase, Firestore, Figma, NodeJS, Jest and SCRUM.](During 2022 I started doing projects as a FrontEnd Developer within Laboratoria, which is a bootcamp that seeks to simulate a full-time work environment. Thanks to this I have gained experience in JavaScript, HTML and CSS. I have also gained experience in Firebase, Firestore, Figma, NodeJS, Jest and SCRUM.)
+- 📄 Know about my experiences [During 2022 I started doing projects as a FrontEnd Developer within Laboratoria, which is a bootcamp that seeks to simulate a full-time work environment. Thanks to this I have gained experience in JavaScript, HTML and CSS. I have also gained experience in Firebase, Firestore, Figma, NodeJS, Jest and SCRUM. During 2022 I started doing projects as a FrontEnd Developer within Laboratoria, which is a bootcamp that seeks to simulate a full-time work environment. Thanks to this I have gained experience in JavaScript, HTML and CSS. I have also gained experience in Firebase, Firestore, Figma, NodeJS, Jest and SCRUM.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
