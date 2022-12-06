@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [MD-Links](https://github.com/PaoRoss/CDMX013-md-links)
+- 🔭 I’m currently working on [Burger-Queen-Api-Client](https://github.com/PaoRoss/CDMX013-burger-queen-api-client)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS & React**
 
 - 📫 How to reach me **paodiazglez.pdgr@gmail.com**
 
