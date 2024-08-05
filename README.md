@@ -1,6 +1,6 @@
 [![Linked-In-Banner-1.png](https://i.postimg.cc/NjPyLNkv/Linked-In-Banner-1.png)](https://postimg.cc/JsZ725Fp)
 <h1 align="center">Hi 👋, I'm Paola Rosano</h1>
-<h3 align="center">A passionate FrontEnd Developer from México</h3>
+<h3 align="center">A passionate QA from Mexico</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
 
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Burger-Queen-Api-Client](https://github.com/PaoRoss/CDMX013-burger-queen-api-client)
+- 🔭 I’m currently working on **QA automation projects**
 
-- 🌱 I’m currently learning **NodeJS & React**
+- 🌱 I’m currently learning **Selenium & Python**
 
 - 📫 How to reach me **paodiazglez.pdgr@gmail.com**
 
