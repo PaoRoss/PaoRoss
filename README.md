@@ -1,4 +1,4 @@
-[![Linked-In-Banner-1.png](https://i.postimg.cc/NjPyLNkv/Linked-In-Banner-1.png)](https://postimg.cc/JsZ725Fp)
+[![Linked-In-Banner-1.png](https://i.postimg.cc/bYkZHkKF/Linked-In-Banner-1.png)](https://postimg.cc/Dmff7Jfq)
 <h1 align="center">Hi 👋, I'm Paola Rosano</h1>
 <h3 align="center">A passionate QA from Mexico</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
